@@ -8,7 +8,6 @@ I am a Software Engineer having 1+ years of experience in Java, Spring Boot, Mic
  - 📝 [My LinkedIn](https://www.linkedin.com/in/dade-rahul-a33965209/)  
  - 🌐 [My Website]()
 
-## Tools and Technologies :computer:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
