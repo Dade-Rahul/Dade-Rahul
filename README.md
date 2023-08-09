@@ -1,7 +1,9 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Dade-Rahul&color=ff69b4)
+
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
-## About Me :Boy:
+## About Me :
 I am a Software Engineer having 1+ years of experience in Java, Spring Boot, Microservices, Javascript, HTML, CSS, AngularJS, ReactJS.
 
  - 📫 How to reach me: rahuldade54@gmail.com  
