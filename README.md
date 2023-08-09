@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate software Engineer</h3>
-https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif
+<img align="right" alt="coding" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
 ## About Me :
 I am a Software Engineer having 1+ years of experience in Java, Spring Boot, Microservices, Javascript, HTML, CSS, AngularJS, ReactJS.
 
