@@ -1,4 +1,4 @@
-[![MasterHead](https://www.learntek.org/blog/wp-content/uploads/2018/05/java2.jpg)]
+[![MasterHead](https://www.learntek.org/blog/wp-content/uploads/2018/05/java2/2000_600px.jpg)]
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
