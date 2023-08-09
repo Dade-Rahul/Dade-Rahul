@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
