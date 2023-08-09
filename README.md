@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Dade-Rahul&color=ff69b4)
+
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate software Engineer</h3>
