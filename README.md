@@ -57,6 +57,6 @@ I am a Software Engineer having 1+ years of experience in Java, Spring Boot, Mic
 
 ## My Stats :chart_with_upwards_trend:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-Dade&show_icons=true&locale=en&layout=compact" alt="Rahul-Dade" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul-Dade&show_icons=true&locale=en" alt="Rahul-Dade" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-Dade&show_icons=true&locale=en&layout=compact" alt="Rahul-Dade" /></p>
