@@ -57,6 +57,6 @@ I am a Software Engineer having 1+ years of experience in Java, Spring Boot, Mic
 
 ## GitHub Stats&#x1f4c8; 
 <p align = "center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul-Dade&show_icons=true&theme=tokyonight&line_height=27">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-Dade&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rahul-Dade&show_icons=true&theme=tokyonight&line_height=27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-Dade&theme=tokyonight">
 </p>
